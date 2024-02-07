@@ -33,3 +33,6 @@ Feel free to customize and extend the queries based on your analysis requirement
 ## Database and Tools
 * MySQL Workbench
 * MySQL Server
+
+## Schema- Music Store Database![music_datasql](https://github.com/rohit1381999/Music-Store-Data-Analysis-Project-using-SQL/assets/124949699/1d4b581a-4839-48a2-85e1-973b242a055c)
+
