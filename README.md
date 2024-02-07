@@ -8,7 +8,7 @@ The dataset includes tables for tracks, genres, playlists, playlist_track, custo
 
 ## Project Structure
 
-- **music_store_analysis.sql**: The main SQL script containing queries to analyze the dataset and answer key questions about the music store.
+- **Music_store_data_analysis.sql**: The main SQL script containing queries to analyze the dataset and answer key questions about the music store.
 
 ## Questions Explored
 
@@ -30,6 +30,6 @@ The dataset includes tables for tracks, genres, playlists, playlist_track, custo
 
 Feel free to customize and extend the queries based on your analysis requirements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Database and Tools
+MySQL Workbench
+PgAdmin4
