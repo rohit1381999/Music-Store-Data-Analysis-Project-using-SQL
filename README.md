@@ -31,5 +31,5 @@ The dataset includes tables for tracks, genres, playlists, playlist_track, custo
 Feel free to customize and extend the queries based on your analysis requirements.
 
 ## Database and Tools
-MySQL Workbench
-MySQL Server
+* MySQL Workbench
+* MySQL Server
