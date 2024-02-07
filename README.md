@@ -32,4 +32,4 @@ Feel free to customize and extend the queries based on your analysis requirement
 
 ## Database and Tools
 MySQL Workbench
-PgAdmin4
+MySQL Server
