@@ -24,7 +24,7 @@ The dataset includes tables for tracks, genres, playlists, playlist_track, custo
 
 ## Running the Project
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <https://github.com/rohit1381999/Music-Store-Data-Analysis-Project-using-SQL.git>`
 2. Import the provided dataset into your MySQL database.
 3. Run the queries in the `music_store_analysis.sql` file to explore the dataset and answer the specified questions.
 
